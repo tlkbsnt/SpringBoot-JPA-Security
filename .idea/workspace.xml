@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86756d71-3f72-4514-8ad7-1aea579f4202" name="Changes" comment="Has been added the Application and jpa spring-boot starter and postgres database connection handler and database connection using the application.yml file">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    <list default="true" id="86756d71-3f72-4514-8ad7-1aea579f4202" name="Changes" comment="Has been added the Spring Security dependencies.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702119780964</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Has been added the Spring Security">
+      <option name="closed" value="true" />
+      <created>1702120224726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702120224726</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Has been added the Spring Security dependencies.">
+      <option name="closed" value="true" />
+      <created>1702120238985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702120238985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +184,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Has been added the Application and jpa spring-boot starter and postgres database connection handler and database connection using the application.yml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Has been added the Application and jpa spring-boot starter and postgres database connection handler and database connection using the application.yml file" />
+    <MESSAGE value="Has been added the Spring Security" />
+    <MESSAGE value="Has been added the Spring Security dependencies." />
+    <option name="LAST_COMMIT_MESSAGE" value="Has been added the Spring Security dependencies." />
   </component>
 </project>
