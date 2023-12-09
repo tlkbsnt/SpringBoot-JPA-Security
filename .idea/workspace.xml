@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86756d71-3f72-4514-8ad7-1aea579f4202" name="Changes" comment="Has been added the Spring Security dependencies.">
+    <list default="true" id="86756d71-3f72-4514-8ad7-1aea579f4202" name="Changes" comment="Has been added the Role and User class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bsnt/np/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bsnt/np/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bsnt/np/controller/RestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bsnt/np/controller/Dashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bsnt/np/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bsnt/np/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bsnt/np/security/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bsnt/np/security/WebSecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tlkbsnt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="78bf4bce-a306-4c20-91d2-ca6bfa037d62" />
+        <option name="url" value="https://github.com/tlkbsnt/SpringBootCompleteProject.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/bsnt/np/Application.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -167,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702120238985</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Has been added the Role and User class">
+      <option name="closed" value="true" />
+      <created>1702126942362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702126942363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +218,7 @@
     <MESSAGE value="Has been added the Application and jpa spring-boot starter and postgres database connection handler and database connection using the application.yml file" />
     <MESSAGE value="Has been added the Spring Security" />
     <MESSAGE value="Has been added the Spring Security dependencies." />
-    <option name="LAST_COMMIT_MESSAGE" value="Has been added the Spring Security dependencies." />
+    <MESSAGE value="Has been added the Role and User class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Has been added the Role and User class" />
   </component>
 </project>

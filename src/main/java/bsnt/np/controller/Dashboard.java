@@ -4,8 +4,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class RestApplication {
-    @GetMapping("/api")
+public class Dashboard {
+    @GetMapping("/login")
     public String hello(){
         return "Hello Tilak";
     }
